@@ -31,9 +31,6 @@
 - 💬 Ask me about  Web Development | Data Science | Software Development | C++ | Data Structures | Algorithms
 - 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/cpushkar961/)
 
-#### Social Media Links
-
-
 ✉️ You can shoot me an Email at cpushkar9601@gmail.com
 <!---
 cpushkar/cpushkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
