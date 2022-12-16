@@ -1,9 +1,9 @@
                                                              
-                                                          Hi there 👋, I'm Pushkar Choudhari.
+                                                   Hi there 👋, I'm Pushkar Choudhari.
                                                              
-                                                        I'm a Web Developer, Software Developer.
+                                                 I'm a Web Developer, Software Developer.
                                                      
-                                          As an Engineer, I am passionate about getting everyone into Open Source.
+                                        As an Engineer, I am passionate about getting everyone into Open Source.
 
 
 #### BIO
