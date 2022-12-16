@@ -26,7 +26,7 @@
 
 - 👋 Hi, I’m @cpushkar
 - 👀 I’m interested in Web Development & Software Development
-- 🌱 I’m currently doing B.Tech form Instrumentation & Control Engineering
+- 🌱 I’m currently doing B.Tech form Instrumentation & Control Engineering from VIT,Pune
 - 👯 I'm looking forward to collaborate with some amazing real time Projects
 - 💬 Ask me about  Web Development | Data Science | Software Development | C++ | Data Structures | Algorithms
 - 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/cpushkar961/)
